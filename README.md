@@ -2,5 +2,4 @@
 
 
 ## JavaScript
-
-<iframe src="https://giphy.com/embed/fwbZnTftCXVocKzfxR" width="480" height="340" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/PLCnext-plcnext-phoenixcontact-plcnexttechnology-fwbZnTftCXVocKzfxR">via GIPHY</a></p>
+![giphy](https://github.com/PckProgramador/ejerciciosJavaScript/assets/119043644/c54166b0-4961-4dd5-95d3-6d62d5949b8d)
